@@ -10,7 +10,7 @@
 This project contains the assets for my CSCI E-15 personal project homepage. This includes CSS, JavaScript, HTML, and images. Links will be added to this page as the course progresses.
 
 ## Demo
-[https://p1.shullworks.com](https://p1.shullworks.com)
+[https://youtu.be/YWqa6onfbqM](https://youtu.be/YWqa6onfbqM)
 
 ## Details for Teaching Team
 No notes for this particular project.
